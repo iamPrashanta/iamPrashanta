@@ -1,7 +1,9 @@
 ### Hi there, I'm Prashanta - [iamPrashanta][githublink] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?url=http%3A%2F%2Fworkwithpras.000webhostapp.com%2F)](https://workwithpras.com)
+![GitHub top language](https://img.shields.io/github/languages/top/iamPrashanta/pras-todos?color=EFD81D&logo=javascript&style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/iamPrashanta/CRUD-php-login-logout?color=6E7BAE&label=PHP&logo=php)
+![GitHub top language](https://img.shields.io/github/languages/top/iamPrashanta/CSS?color=2758E5&label=CSS&logo=css&style=flat-square)
 
 ## I'm a Developer, and Teacher!!
 
