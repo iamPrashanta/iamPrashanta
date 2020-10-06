@@ -18,6 +18,7 @@
 
 [<img src="https://now-playing-profile-gilt.vercel.app/api/spotify-playing" alt="iamPrashanta Spotify Playing" width="350" />](https://open.spotify.com/user/96d3ag6jjnm8pfba9dspayb4z)
 
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -70,6 +71,12 @@
 ➡️ [more blog posts...](http://workwithpras.000webhostapp.com/)
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="iamPrashanta's GitHub Stats" src="https://now-playing-profile-gilt.vercel.app/api?username=iamPrashanta&show_icons=true&hide_border=true" />
+
+</details>
 
 
 [githublink]: https://github.com/iamPrashanta
