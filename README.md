@@ -16,7 +16,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://now-playing-profile-gilt.vercel.app/api/spotify)](https://open.spotify.com/user/96d3ag6jjnm8pfba9dspayb4z)
+[<img src="https://now-playing-profile-gilt.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/96d3ag6jjnm8pfba9dspayb4z)
 
 ### Connect with me:
 
