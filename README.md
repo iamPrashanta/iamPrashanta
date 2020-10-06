@@ -74,7 +74,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="iamPrashanta's GitHub Stats" src="https://now-playing-profile-gilt.vercel.app/api?username=iamprashanta&show_icons=true&hide_border=true" />
+  <img align="left" alt="iamPrashanta's GitHub Stats" src="https://github-readme-stats-beta-silk.vercel.app/api?username=iamPrashanta&show_icons=true&hide_border=true" />
 
 </details>
 
