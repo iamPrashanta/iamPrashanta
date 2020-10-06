@@ -16,9 +16,9 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-music.vercel.app/api/spotify-playing" alt="iamPrashanta Spotify Playing" width="350" />](https://open.spotify.com/user/96d3ag6jjnm8pfba9dspayb4z)
+[<img src="https://novatorem-music.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/96d3ag6jjnm8pfba9dspayb4z)
 
-
+[![Spotify](https://novatorem-music.vercel.app/api/spotify)](https://open.spotify.com/user/96d3ag6jjnm8pfba9dspayb4z)
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
