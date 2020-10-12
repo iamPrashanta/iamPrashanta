@@ -3,7 +3,8 @@
 [![Website](https://img.shields.io/website?url=http%3A%2F%2Fworkwithpras.000webhostapp.com%2F)](https://workwithpras.com)
 ![GitHub top language](https://img.shields.io/github/languages/top/iamPrashanta/pras-todos?color=EFD81D&logo=javascript)
 ![GitHub top language](https://img.shields.io/github/languages/top/iamPrashanta/CRUD-php-login-logout?color=6E7BAE&label=PHP&logo=php)
-![GitHub top language](https://img.shields.io/github/languages/top/iamPrashanta/CSS?color=2758E5&label=CSS&logo=css)
+
+![GitHub top language](https://img.shields.io/github/languages/top/iamPrashanta/Bulk-URL-Opener?color=2758E5&label=CSS&logo=css)
 
 
 ## I'm a Developer, and Teacher!!
