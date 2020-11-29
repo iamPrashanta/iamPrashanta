@@ -9,7 +9,7 @@
 
 
 
-## I'm a Developer, and Teacher!!
+## I'm a full stack web developer !!
 
 - 🔭 I just launched my Youtube Channel: [PrasEDcat][ytchannel]!
 - 🌱 I’m currently learning everything 🤣
