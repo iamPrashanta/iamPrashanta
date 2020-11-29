@@ -1,18 +1,18 @@
 ### Hi there, I'm Prashanta - [iamPrashanta][githublink] 👋
 
 [![Website](https://img.shields.io/website?url=http%3A%2F%2Fworkwithpras.000webhostapp.com%2F)](https://workwithpras.com)
-![GitHub top language](https://img.shields.io/github/languages/top/iamPrashanta/pras-todos?color=EFD81D&logo=javascript)
-![GitHub top language](https://img.shields.io/github/languages/top/iamPrashanta/CRUD-php-login-logout?color=6E7BAE&label=PHP&logo=php)
+![JavaScript](https://img.shields.io/github/languages/top/iamPrashanta/pras-todos?color=EFD81D&logo=javascript)
+![PHP](https://img.shields.io/github/languages/top/iamPrashanta/CRUD-php-login-logout?color=6E7BAE&label=PHP&logo=php)
+![GitHub top language](https://img.shields.io/github/languages/top/iamPrashanta/GitHub-sidenav-copy?color=2758E5&label=css)
 
-![GitHub top language](https://img.shields.io/github/languages/top/iamPrashanta/Bulk-URL-Opener?color=2758E5&label=CSS&logo=css)
 
 
 ## I'm a Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [PrasEDcat][ytchannel]!
+- 🔭 I just launched my Youtube Channel: [PrasEDcat][ytchannel]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+<!--- 👯 I’m looking to collaborate with other content creators-->
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
 
 
