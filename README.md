@@ -1,6 +1,6 @@
 ### Hi there, I'm Prashanta - [iamPrashanta][githublink] 👋
 
-[![Website](https://img.shields.io/website?url=http%3A%2F%2Fworkwithpras.000webhostapp.com%2F)](https://workwithpras.com)
+[![Website](https://img.shields.io/website?url=http%3A%2F%2Fworkwithpras.000webhostapp.com%2F)](http://workwithpras.000webhostapp.com/)
 [![HTML](https://img.shields.io/github/languages/top/iamPrashanta/JavaScript30?color=DD4B25&label=HTML)](https://github.com/iamPrashanta)
 [![CSS & SCSS](https://img.shields.io/github/languages/top/iamPrashanta/GitHub-sidenav-copy?color=2758E5&label=CSS%20%26%20SCSS)](https://github.com/iamPrashanta)
 [![JavaScript](https://img.shields.io/github/languages/top/iamPrashanta/pras-todos?color=EFD81D&logo=javascript)](https://github.com/iamPrashanta)
