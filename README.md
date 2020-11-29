@@ -1,9 +1,11 @@
 ### Hi there, I'm Prashanta - [iamPrashanta][githublink] 👋
 
 [![Website](https://img.shields.io/website?url=http%3A%2F%2Fworkwithpras.000webhostapp.com%2F)](https://workwithpras.com)
+![HTML](https://img.shields.io/github/languages/top/iamPrashanta/JavaScript30?color=DD4B25&label=HTML)
+![CSS & SCSS](https://img.shields.io/github/languages/top/iamPrashanta/GitHub-sidenav-copy?color=2758E5&label=CSS%20%26%20SCSS)
 ![JavaScript](https://img.shields.io/github/languages/top/iamPrashanta/pras-todos?color=EFD81D&logo=javascript)
 ![PHP](https://img.shields.io/github/languages/top/iamPrashanta/CRUD-php-login-logout?color=6E7BAE&label=PHP&logo=php)
-![GitHub top language](https://img.shields.io/github/languages/top/iamPrashanta/GitHub-sidenav-copy?color=2758E5&label=css)
+
 
 
 
