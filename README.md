@@ -11,11 +11,8 @@
 
 ## I'm a full stack web developer !!
 
-- 🔭 I just launched my Youtube Channel: [PrasEDcat][ytchannel]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for the best freelance project
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games
+- 🌱 I’m currently learning Python
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
@@ -48,28 +45,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [How To Match a Subject & Blend Images Together Like a Pro In Photoshop - Compositing Tutorial](https://www.youtube.com/watch?v=Uq7Gkk3j164)
-
-- [Create colorful glow lines Portrait & Dual Lighting Effect on Portrait Image](https://www.youtube.com/watch?v=PzUIZM34-Tw)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCpJuutthUhuxhGlMzxNSPOQ)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Coronavirus Update (Live): Cases and Deaths from COVID-19 Virus Pandemic.](http://workwithpras.000webhostapp.com/projects/covid19/)
-- [get IP address and Location details !](http://workwithpras.000webhostapp.com/projects/my-details/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](http://workwithpras.000webhostapp.com/)
-
----
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -79,16 +54,4 @@
 
 
 [githublink]: https://github.com/iamPrashanta
-[ytchannel]: https://www.youtube.com/channel/UCpJuutthUhuxhGlMzxNSPOQ
-[website]: http://workwithpras.000webhostapp.com/
-[instagram]: https://www.instagram.com/iamPras20/
 [linkedin]: https://www.linkedin.com/in/iamprashanta/
-[vscodetuts]: https://www.youtube.com/channel/UCpJuutthUhuxhGlMzxNSPOQ
-[htmlplaylist]: https://www.youtube.com/playlist?list=PLzEwB4UA48_7orb7a8IkA264M0EXZ6LoK
-[cssplaylist]: https://www.youtube.com/playlist?list=PLzEwB4UA48_4Ch8F1Drso7L_oWn3tGFDw
-[jsplaylist]: https://www.youtube.com/playlist?list=PLzEwB4UA48_6m3-SOyHTGv7ZmKqn992Zh
-[phpplaylist]: https://www.youtube.com/playlist?list=PLzEwB4UA48_5H97vMzayDIyswL_8klS2y
-[photoshopplaylist]: https://www.youtube.com/playlist?list=PLzEwB4UA48_5-rfdYK8SQhi2RWpAyc9-a
-[illustratorplaylist]: https://www.youtube.com/playlist?list=PLzEwB4UA48_7HEMM_uKuR2ZL3taTR-joA
-[sqlplaylist]: https://www.youtube.com/playlist?list=PLzEwB4UA48_7myMuthp6crcVO_KgpM04B
-[climdifbiplaylist]: https://www.youtube.com/playlist?list=PLzEwB4UA48_44SiYnk9uX00wEHXUv0qiY
